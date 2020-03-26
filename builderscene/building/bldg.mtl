@@ -1,5 +1,19 @@
 # 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
-# File Created: 26.03.2020 12:43:57
+# File Created: 26.03.2020 14:25:56
+
+newmtl Material__32
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka _14.jpg
+	map_Kd _14.jpg
 
 newmtl Material__26
 	Ns 10.0000
@@ -15,7 +29,7 @@ newmtl Material__26
 	map_Ka steel.JPG
 	map_Kd steel.JPG
 
-newmtl Material__27
+newmtl Material__30
 	Ns 10.0000
 	Ni 1.5000
 	d 1.0000
@@ -26,8 +40,50 @@ newmtl Material__27
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka floor.JPG
-	map_Kd floor.JPG
+	map_Ka Material100.tif
+	map_Kd Material100.tif
+
+newmtl Material__35
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Stone_Masonry_Multi.jpg
+	map_Kd Stone_Masonry_Multi.jpg
+
+newmtl Material__29
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka metal.JPG
+	map_Kd metal.JPG
+
+newmtl Material__33
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Blinds_Roman_Hobbled_Blue.jpg
+	map_Kd Blinds_Roman_Hobbled_Blue.jpg
 
 newmtl Material__28
 	Ns 10.0000
@@ -43,17 +99,17 @@ newmtl Material__28
 	map_Ka yellow.JPG
 	map_Kd yellow.JPG
 
-newmtl wire_113135006
+newmtl wire_108008136
 	Ns 32
 	d 1
 	Tr 0
 	Tf 1 1 1
 	illum 2
-	Ka 0.4431 0.5294 0.0235
-	Kd 0.4431 0.5294 0.0235
+	Ka 0.4235 0.0314 0.5333
+	Kd 0.4235 0.0314 0.5333
 	Ks 0.3500 0.3500 0.3500
 
-newmtl Material__25
+newmtl Material__47
 	Ns 10.0000
 	Ni 1.5000
 	d 1.0000
@@ -64,10 +120,10 @@ newmtl Material__25
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka concrete.JPG
-	map_Kd concrete.JPG
+	map_Ka plast.jpg
+	map_Kd plast.jpg
 
-newmtl Material__29
+newmtl Material__93
 	Ns 10.0000
 	Ni 1.5000
 	d 1.0000
@@ -78,5 +134,5 @@ newmtl Material__29
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka metal.JPG
-	map_Kd metal.JPG
+	map_Ka box.jpg
+	map_Kd box.jpg

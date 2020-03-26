@@ -1,5 +1,5 @@
 # 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
-# File Created: 26.03.2020 14:33:55
+# File Created: 26.03.2020 20:59:30
 
 newmtl Material__32
 	Ns 10.0000
@@ -15,7 +15,7 @@ newmtl Material__32
 	map_Ka _14.jpg
 	map_Kd _14.jpg
 
-newmtl Material__26
+newmtl Material__28
 	Ns 10.0000
 	Ni 1.5000
 	d 1.0000
@@ -26,8 +26,8 @@ newmtl Material__26
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka steel.JPG
-	map_Kd steel.JPG
+	map_Ka yellow.JPG
+	map_Kd yellow.JPG
 
 newmtl Material__29
 	Ns 10.0000
@@ -57,7 +57,7 @@ newmtl Material__33
 	map_Ka Blinds_Roman_Hobbled_Blue.jpg
 	map_Kd Blinds_Roman_Hobbled_Blue.jpg
 
-newmtl Material__28
+newmtl Material__26
 	Ns 10.0000
 	Ni 1.5000
 	d 1.0000
@@ -68,8 +68,8 @@ newmtl Material__28
 	Kd 0.5880 0.5880 0.5880
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka yellow.JPG
-	map_Kd yellow.JPG
+	map_Ka steel.JPG
+	map_Kd steel.JPG
 
 newmtl Material__47
 	Ns 10.0000
@@ -98,3 +98,31 @@ newmtl Material__93
 	Ke 0.0000 0.0000 0.0000
 	map_Ka box.jpg
 	map_Kd box.jpg
+
+newmtl Material__192
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka contb.jpg
+	map_Kd contb.jpg
+
+newmtl Material__191
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka kont.jpg
+	map_Kd kont.jpg

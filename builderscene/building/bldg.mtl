@@ -1,5 +1,5 @@
 # 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
-# File Created: 26.03.2020 14:25:56
+# File Created: 26.03.2020 14:33:55
 
 newmtl Material__32
 	Ns 10.0000
@@ -28,34 +28,6 @@ newmtl Material__26
 	Ke 0.0000 0.0000 0.0000
 	map_Ka steel.JPG
 	map_Kd steel.JPG
-
-newmtl Material__30
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 0.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.5880 0.5880 0.5880
-	Kd 0.5880 0.5880 0.5880
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
-	map_Ka Material100.tif
-	map_Kd Material100.tif
-
-newmtl Material__35
-	Ns 10.0000
-	Ni 1.5000
-	d 1.0000
-	Tr 0.0000
-	Tf 1.0000 1.0000 1.0000 
-	illum 2
-	Ka 0.5880 0.5880 0.5880
-	Kd 0.5880 0.5880 0.5880
-	Ks 0.0000 0.0000 0.0000
-	Ke 0.0000 0.0000 0.0000
-	map_Ka Stone_Masonry_Multi.jpg
-	map_Kd Stone_Masonry_Multi.jpg
 
 newmtl Material__29
 	Ns 10.0000
@@ -98,16 +70,6 @@ newmtl Material__28
 	Ke 0.0000 0.0000 0.0000
 	map_Ka yellow.JPG
 	map_Kd yellow.JPG
-
-newmtl wire_108008136
-	Ns 32
-	d 1
-	Tr 0
-	Tf 1 1 1
-	illum 2
-	Ka 0.4235 0.0314 0.5333
-	Kd 0.4235 0.0314 0.5333
-	Ks 0.3500 0.3500 0.3500
 
 newmtl Material__47
 	Ns 10.0000

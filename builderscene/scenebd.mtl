@@ -2,15 +2,11 @@
 ## Alias OBJ Material File
 # Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
 
-newmtl _Color_003_2
+newmtl _14
 Ka 0.000000 0.000000 0.000000
-Kd 0.666667 0.666667 0.666667
+Kd 0.549020 0.549020 0.549020
 Ks 0.330000 0.330000 0.330000
-
-newmtl Color_004
-Ka 0.000000 0.000000 0.000000
-Kd 0.556863 0.556863 0.556863
-Ks 0.330000 0.330000 0.330000
+map_Kd scenebd/_14.jpg
 
 newmtl Translucent_Glass_Gray
 Ka 0.000000 0.000000 0.000000
@@ -24,11 +20,11 @@ Kd 0.713725 0.686275 0.643137
 Ks 0.330000 0.330000 0.330000
 map_Kd scenebd/Stone_Masonry_Multi.jpg
 
-newmtl _14
+newmtl Material100
 Ka 0.000000 0.000000 0.000000
-Kd 0.549020 0.549020 0.549020
+Kd 0.423529 0.415686 0.392157
 Ks 0.330000 0.330000 0.330000
-map_Kd scenebd/_14.jpg
+map_Kd scenebd/Material100.tif
 
 newmtl _0046_Gold_1
 Ka 0.000000 0.000000 0.000000
@@ -54,12 +50,6 @@ newmtl Metal_Stainless_1
 Ka 0.000000 0.000000 0.000000
 Kd 0.286275 0.282353 0.286275
 Ks 0.330000 0.330000 0.330000
-
-newmtl Material100
-Ka 0.000000 0.000000 0.000000
-Kd 0.423529 0.415686 0.392157
-Ks 0.330000 0.330000 0.330000
-map_Kd scenebd/Material100.tif
 
 newmtl FrontColor
 Ka 0.000000 0.000000 0.000000
